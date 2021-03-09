@@ -19,7 +19,6 @@
         <li><a href="#set-up">Set Up</a></li>
       </ul>
     </li>
-    <li><a href="#endponits">Endpoints</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -51,4 +50,4 @@ Rabbitmq Auth Backend microservice is responsible of auth all operations over Ra
 * [NestJS](https://nestjs.com/)
 ## License
 
-  Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).
